@@ -1,5 +1,4 @@
 <h1>This repository contains solutions for two programming problems:</h1>
-<h3>Sort Character</h3>
 
 <h2> 1. Sort Character (NDL010)</h2>
    Problem Description The task is to sort characters from a given string based on certain rules. The string contains both vowels and consonants. We are required to sort the vowels and consonants separately while maintaining their order of appearance.
